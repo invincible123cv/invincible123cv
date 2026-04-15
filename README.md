@@ -5,7 +5,7 @@
 
 - [Building agentic SOC AI]()
  
-<h2>🦹🏼‍♂️Red-team projects:</h2>
+<h2>⚔️Red-team projects:</h2>
  
 - [Browser in the browser attack simulation]()
  
