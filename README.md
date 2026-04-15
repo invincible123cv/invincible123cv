@@ -3,18 +3,15 @@
 
 <h2>🛡️SOC Projects:</h2>
 
-- <b>Building agentic SOC AI</b>
-  - [Praciting DS & Algos in Python]()
+- [Building agentic SOC AI]()
  
 <h2>🦹🏼‍♂️Red-team projects:</h2>
  
-- <b>Building agentic SOC AI</b>
-  - [Browser in the browser attack simulation]()
+- [Browser in the browser attack simulation]()
  
 <h2>🛜Network-related projects</h2>
  
-- <b>Building agentic SOC AI</b>
-  - [Wi-Fi MITM Threats & WireGuard Mitigation]()
+ - [Wi-Fi MITM Threats & WireGuard Mitigation]()
  
 <h2>📜Certifications</h2>
  
