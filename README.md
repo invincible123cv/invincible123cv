@@ -4,6 +4,7 @@
 <h2>🛡️SOC Projects:</h2>
 
 - [Building agentic SOC AI]()
+- [Building a cloud honeyspot lab](https://github.com/invincible123cv/Azure-Honeyspot-Lab)
  
 <h2>⚔️Red-team projects:</h2>
  
